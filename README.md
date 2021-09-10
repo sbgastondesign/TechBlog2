@@ -9,6 +9,9 @@ Create an application that follows the MVC paradigm in its architectural structu
 ## Results:
 
 I was able to successfully install all packages and follow the MVC paradigm. I was able to seed to database and run the back end. Handlebars is connected to the backend.
+![home.](/home.png)
+![signup.](/signup.png)
+![signin.](/signin.png)
 
 ### Github Link:
 
@@ -16,9 +19,12 @@ https://sbgastondesign.github.io/TechBlog2/
 
 ### Heroku Link:
 
+https://sheltered-refuge-72879.herokuapp.com/
+
 ## Future Updates:
 
 - Add better styling.
+- Improve sign-up and sign-in and dashboard
 
 ### License
 
