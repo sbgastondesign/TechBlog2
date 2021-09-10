@@ -1,32 +1,32 @@
 [
   {
-    "title": "Test Title A",
-    "content": "Test Content A.",
+    "title": "Random regex",
+    "content": "Just some random post about regex.",
     "user_id": 1
   },
   {
-    "title": "Test Title B",
-    "content": "Test Content B.",
+    "title": "The Ultimate Tech Quiz",
+    "content": "A web app that will test your coding abilities.",
     "user_id": 1
   },
   {
-    "title": "Test Title C",
-    "content": "Test Content C.",
+    "title": "Interview Time",
+    "content": "What it takes to get the job.",
     "user_id": 2
   },
   {
-    "title": "Test Title D",
-    "content": "Test Content D.",
+    "title": "Heroku",
+    "content": "How many repos does it take to deploy correctly? All the repos.",
     "user_id": 2
   },
   {
-    "title": "Test Title E",
-    "content": "Test Content E.",
+    "title": "Code and Caffeine",
+    "content": "What gets you through the day and night and day again.",
     "user_id": 3
   },
   {
-    "title": "Test Title F",
-    "content": "Test Content F.",
+    "title": "Swan Song",
+    "content": "The best code there ever was until it wasn't.",
     "user_id": 3
   }
 ]
