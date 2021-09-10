@@ -1,17 +1,17 @@
 [
     {
       "id": 1,
-      "username": "Imani_Williams",
-      "password": "password"
+      "username": "Sal",
+      "password": "password12345"
     },
     {
       "id": 2,
-      "username": "Darius_Hernandez",
-      "password": "password"
+      "username": "Lernantino",
+      "password": "password12345"
     },
     {
       "id": 3,
-      "username": "Amy_Choi",
-      "password": "password"
+      "username": "Amiko",
+      "password": "password12345"
     }
   ]

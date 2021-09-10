@@ -1,32 +1,27 @@
 [
     {
-      "content": "Test Comment A",
+      "content": "Love this",
       "user_id": 1,
       "article_id": 1
     },
     {
-      "content": "Test Comment B",
+      "content": "Actually the worst",
       "user_id": 1,
       "article_id": 2
     },
     {
-      "content": "Test Comment C",
+      "content": "Check your sources",
       "user_id": 2,
       "article_id": 3
     },
     {
-      "content": "Test Comment D",
+      "content": "Awesome job!",
       "user_id": 2,
       "article_id": 4
     },
     {
-      "content": "Test Comment E",
+      "content": "Really great idea",
       "user_id": 3,
       "article_id": 5
-    },
-    {
-      "content": "Test Comment F",
-      "user_id": 3,
-      "article_id": 6
     }
   ]
